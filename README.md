@@ -1,1 +1,1 @@
-# Sales Analytics
+# AtliQ Hardware - Finance & Sales Analytics
